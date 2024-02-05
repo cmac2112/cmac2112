@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmac2112
 - 👀 I’m interested in: Machine learning/AI
-- 🌱 I’m currently learning: Tensorflow, actually being able to understand Dynamic programs
+- 🌱 I’m currently learning: everything
 - 📫 How to reach me: Twitter @mac2112. Email: Caden.mcarthur@gmail.com
 
 <!---
