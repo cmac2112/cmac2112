@@ -8,7 +8,7 @@
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=cmac2112)](https://git.io/streak-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmac2112)](https://github.com/cmac2112/github-readme-stats)
 - ![](https://komarev.com/ghpvc/?username=cmac2112)
-- 
+
 
 <!---
 cmac2112/cmac2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
