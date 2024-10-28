@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cmac2112, im a Senior CS student @ Bethel College, Graduating in December
 - 👀 My Experience: Front-End Software Engineer Intern @ Legget & Platt, Software Developer/IMS Technician @ Bethel College
 - 🌱 Leadership: President of Bethel's Inagural Software Club mentoring CS students at Bethel building projects, preparing for interviews, and representing Bethel College at Hackathons in the area.
-- 🔨 Currently Working on: Bethel's job application site. Bethel social media page for clubs and organizations to post their announcements. Job prep.
+- 🔨 Currently Working on: Bethel's job application site. Bethel social media page for clubs and organizations to post their announcements
 - 📫 How to reach me: Twitter @mac2112. Email: Caden.mcarthur@gmail.com Linkedin https://www.linkedin.com/in/cadenmcarthur/
 
 - [![Caden's Github Stats](https://github-readme-stats.vercel.app/api?username=cmac2112&show_icons=true&theme=radical)](https://github.com/cmac2112/github-readme-stats)
