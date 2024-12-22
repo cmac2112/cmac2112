@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmac2112, im a Senior CS student @ Bethel College, Graduating in December
+- 👋 Hi, I’m @cmac2112, Software Developer at INTRUST Bank
 - 👀 My Experience: Front-End Software Engineer Intern @ Legget & Platt, Software Developer/IMS Technician @ Bethel College
 - 🌱 Leadership: President of Bethel's Inagural Software Club mentoring CS students at Bethel building projects, preparing for interviews, and representing Bethel College at Hackathons in the area.
 - 🔨 Currently Working on: Bethel's job application site. Bethel social media page for clubs and organizations to post their announcements
