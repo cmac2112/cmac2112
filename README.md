@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cmac2112, Software Developer at INTRUST Bank
+- 👋 Hi, I’m @cmac2112, Software Developer at INTRUST Bank specializing in .NET/c#/blazor/sql work.
 - 👀 My Experience: Software Developer @ INTRUST Bank, Front-End Software Engineer Intern @ Legget & Platt, Software Developer/IMS Technician @ Bethel College
 - 🌱 Leadership: President of Bethel's Inagural Software Club mentoring CS students at Bethel building projects, preparing for interviews, and representing Bethel College at Hackathons in the area.
-- 🔨 Currently Working on: My personal website, developing a game engine in c, and some other secret stuff :)
+- 🔨 Currently Working on: My personal website, developing the worst chess ai ever, and some other things listed variously throughout my repositories.
 - 📫 How to reach me: Twitter @mac2112. Email: Caden.mcarthur@gmail.com Linkedin https://www.linkedin.com/in/cadenmcarthur/
 
 - Awards: NASA Space Apps Challenge Local Impact Award, NASA Space Apps Challenge People's Choice Award, Bethel College Most Promising New Student Organization
