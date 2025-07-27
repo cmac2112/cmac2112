@@ -6,7 +6,7 @@
 
 - Awards: NASA Space Apps Challenge Local Impact Award, NASA Space Apps Challenge People's Choice Award, Bethel College Most Promising New Student Organization
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,tailwind,ts,vite,vscode,visualstudio,cs,dotnet,flask,git,github,mysql,nextjs,nodejs,postman,py,tensorflow,rider,docker,c,vim,)](https://skillicons.dev)
 
 - [![Caden's Github Stats](https://github-readme-stats.vercel.app/api?username=cmac2112&show_icons=true&theme=radical)](https://github.com/cmac2112/github-readme-stats)
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=cmac2112)](https://git.io/streak-stats)
