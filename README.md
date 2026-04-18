@@ -19,3 +19,7 @@ A Chrome extension designed to help users tailor their resumes to specific job p
 
 ### [Brainrot-Generator](https://github.com/cmac2112/Brainrot-Generator)
 A short form video generator that streamlines the process of generating voiceover videos of reddit content
+
+## About me
+Graduated in December 2024 with a degree in Software Development and a minor in Mathematics, I enjoy building and learning as much as I possibly can. Whether thats creating award winning hackathon projects like [Solar Eye](https://github.com/cmac2112/nasaspaceapps), to exploring 
+the concept of machine learning models, or building projects from scratch to learn about all of the abstracted processes involved. Each project has taught me something that I use daily. 
