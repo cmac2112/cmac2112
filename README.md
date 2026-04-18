@@ -1,4 +1,8 @@
-# Projects
+# Caden Mcarthur
+Hello, I'm Caden, I enjoy building anything with software.
+Visit my website https://cadenmcarthur.net
+
+
 ## Highlighted Projects
 
 ### [Stellar-View](https://github.com/cmac2112/Stellar-View)
