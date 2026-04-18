@@ -5,6 +5,9 @@ Visit my website https://cadenmcarthur.net
 
 ## Highlighted Projects
 
+### [Solar Eye](https://github.com/cmac2112/nasaspaceapps)
+A multi award winning NASA spaceapps challenge submission
+
 ### [Stellar-View](https://github.com/cmac2112/Stellar-View)
 An innovative star mapping application that lets users explore the night sky in 3D.
 
