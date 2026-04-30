@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cmac2112, Software Egnineer with a myriad of experience with different languages and frameworks
-- 👀 My Experience: Full time software roles at banks building wealth investment apps supporting client assets up to $9 Billion, and internship experience with large global corperations
+- 👀 My Experience: Full time software roles at banks building wealth investment apps 
 - 🌱 Leadership: Founded Bethel's Inagural Software Club representing Bethel College at Hackathons in the area.
   Linked in: https://www.linkedin.com/in/cadenmcarthur/
-  Personal Website (WIP): https://personalwebsite-ekvj.onrender.com/
+  https://cadenmcarthur.net/
 
 - Awards: NASA Space Apps Challenge Local Impact Award, NASA Space Apps Challenge People's Choice Award, Most Promising New Student Organization
 
